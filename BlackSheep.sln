@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlackSheep", "BlackSheep\BlackSheep.csproj", "{BBF1D05B-1807-462A-AB7F-A9E6AB477150}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Seasons", "Seasons\Seasons.csproj", "{1EA0EDC2-D4D2-4A37-BCF6-8236EEA05C59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RandomQuote", "RandomQuote\RandomQuote.csproj", "{E902FE4D-EE29-49A5-822C-A3672226DF1F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBF1D05B-1807-462A-AB7F-A9E6AB477150}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBF1D05B-1807-462A-AB7F-A9E6AB477150}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBF1D05B-1807-462A-AB7F-A9E6AB477150}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBF1D05B-1807-462A-AB7F-A9E6AB477150}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EA0EDC2-D4D2-4A37-BCF6-8236EEA05C59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EA0EDC2-D4D2-4A37-BCF6-8236EEA05C59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EA0EDC2-D4D2-4A37-BCF6-8236EEA05C59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EA0EDC2-D4D2-4A37-BCF6-8236EEA05C59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E902FE4D-EE29-49A5-822C-A3672226DF1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E902FE4D-EE29-49A5-822C-A3672226DF1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E902FE4D-EE29-49A5-822C-A3672226DF1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E902FE4D-EE29-49A5-822C-A3672226DF1F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DCC87137-905A-461F-9D45-26B53AD535A2}
+	EndGlobalSection
+EndGlobal
